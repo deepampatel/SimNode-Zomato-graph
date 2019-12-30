@@ -1,6 +1,6 @@
-# Graphs for Similar Entity Search
+# Graphs for Similar Entity Search 
 
-#### Code accompanying the medium [article](https://medium.com/p/23a23364d08f)
+#### Code accompanying the medium [article](https://medium.com/coreview-systems/graphs-for-similarity-search-23a23364d08f)
 ## Create Graph
 
 Using the [neo4j-admin](https://neo4j.com/docs/operations-manual/current/tools/import/syntax/) import 
