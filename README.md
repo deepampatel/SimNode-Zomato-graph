@@ -6,7 +6,7 @@
 Using the [neo4j-admin](https://neo4j.com/docs/operations-manual/current/tools/import/syntax/) import 
 1. Download data from [here](https://www.kaggle.com/himanshupoddar/zomato-bangalore-restaurants) 
 2. neo4j-admin import option requires the csv to be in a specific format to create nodes and relationships.
-3. The logic of creating these csv's can be found in this [notebook]()
+3. The logic of creating these csv's can be found in this [notebook](https://github.com/deepam8155/SimNode/blob/master/Food_graph_logic.ipynb)
 4. Run the notebook and create required csv's
 5. Copy all the csv's to import folder of neo4j database
 6. Run the below command 
