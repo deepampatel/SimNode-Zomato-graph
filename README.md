@@ -1,6 +1,7 @@
-# Graphs for Similar Entity Search 
+# SimNode: Using Graphs to do find Similar Entities/Nodes.
+### Finding similar restaurants on a small graph created from zomato restaurants data. 
+#### https://medium.com/coreview-systems/graphs-for-similarity-search-23a23364d08f
 
-#### Code accompanying the medium [article](https://medium.com/coreview-systems/graphs-for-similarity-search-23a23364d08f)
 ## Create Graph
 
 Using the [neo4j-admin](https://neo4j.com/docs/operations-manual/current/tools/import/syntax/) import 
